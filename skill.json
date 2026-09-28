@@ -1,0 +1,9 @@
+{
+  "name": "genpark-quantum-measurement-born-rule-sampler-skill",
+  "version": "1.0.0",
+  "description": "Projective quantum measurement engine sampling qubit collapses via Born's rule with Monte Carlo shot histograms.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
